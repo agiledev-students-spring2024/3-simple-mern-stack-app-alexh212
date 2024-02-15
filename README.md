@@ -16,6 +16,7 @@ When you have completed the exercise, leave your local copy of the app running, 
 
 ```
 https://1db0-68-174-85-46.ngrok-free.app
+```
 
 ## How to launch the app
 
