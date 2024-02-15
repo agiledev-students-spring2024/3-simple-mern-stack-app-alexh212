@@ -6,6 +6,7 @@ import Login from './Login'
 import Home from './Home'
 import Header from './Header'
 import Footer from './Footer'
+import AboutUs from './AboutUs'
 
 const App = props => {
   return (
@@ -16,6 +17,7 @@ const App = props => {
           <Routes>
             <Route path="/" element={<Home />}></Route>
             <Route path="/messages" element={<Messages />}></Route>
+            <Route path="/aboutus" element={<AboutUs />}></Route>
             <Route path="/signup" element={<Signup />}></Route>
             <Route path="/login" element={<Login />}></Route>
           </Routes>

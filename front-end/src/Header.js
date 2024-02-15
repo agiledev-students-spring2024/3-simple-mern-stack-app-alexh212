@@ -29,7 +29,7 @@ const Header = props => {
             <Link to="/">Home</Link>
           </li>
           <li className="nav-item">
-            <Link to="/messages">Messages</Link>
+            <Link to="/aboutus">About</Link>
           </li>
           <li className="nav-item">
             {user ? (

@@ -1,0 +1,11 @@
+html
+img {
+    width: 25%;
+    height: auto;
+    display: block;
+    margin: 10px auto;
+}
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
